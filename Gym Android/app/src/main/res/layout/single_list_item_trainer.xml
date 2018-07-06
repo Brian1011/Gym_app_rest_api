@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_margin="5dp"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+
+    <!--The card layouts-->
+    <android.support.v7.widget.CardView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="5dp"
+        android:layout_marginLeft="5dp"
+        android:layout_marginRight="5dp"
+        >
+
+        <!--The layout-->
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:weightSum="100"
+            android:layout_marginTop="5dp"
+            android:paddingBottom="5dp"
+            android:paddingTop="5dp"
+            >
+
+            <LinearLayout
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="25"
+                >
+
+                <ImageView
+                    android:id="@+id/instructor_image"
+                    android:layout_width="match_parent"
+                    android:layout_height="90dp"
+                    android:src="@drawable/ic_person_grey_24dp"
+                    />
+
+            </LinearLayout>
+
+
+            <LinearLayout
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="30"
+                android:orientation="vertical"
+                >
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:text="@string/name"
+                    />
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:text="@string/gender"
+                    />
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:text="@string/phone"
+                    />
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:text="@string/email"
+                    />
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:text="@string/gym_name"
+                    />
+
+
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="45"
+                android:orientation="vertical"
+                >
+
+                <TextView
+                    android:id="@+id/instructor_name"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:text="@string/john_doe"
+                    />
+
+                <TextView
+                    android:id="@+id/instructor_gender"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:text="@string/male"
+                    />
+
+                <TextView
+                    android:id="@+id/instructor_phone"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:text="@string/_07xxxxxxx"
+                    />
+
+                <TextView
+                    android:id="@+id/instructor_email"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:text="@string/johndoe_gmail_com"
+                    />
+
+                <TextView
+                    android:id="@+id/instructor_gym"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:text="@string/andrews_gym"
+                    />
+
+            </LinearLayout>
+
+
+        </LinearLayout>
+
+    </android.support.v7.widget.CardView>
+
+</android.support.constraint.ConstraintLayout>

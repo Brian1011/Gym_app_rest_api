@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Gym App</string>
+    <string name="btn_login">Login</string>
+    <string name="btn_signup">Sign Up</string>
+    <string name="email">Email Address</string>
+    <string name="password">Password </string>
+    <string name="signup_message">Don\'t Have an account? <b>Sign Up.</b> </string>
+    <string name="time_space">Time Space</string>
+    <string name="re_type_password">Re-type Password</string>
+    <string name="login_message">Already have an account. <b>Login</b></string>
+    <string name="title_activity_homepage">homepage</string>
+    <string name="title_activity_home_page">home_page</string>
+    <string name="welcome_message">Welcome User</string>
+    <string name="user_profile">Profile</string>
+    <string name="new_session">Record New  \n Session</string>
+    <string name="past_sessions">Past Workout \n Sessions</string>
+    <string name="instructors">Instructors</string>
+    <string name="change_language">Language</string>
+    <string name="full_name">Full Name</string>
+    <string name="mail">Email</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="gender_male">Male</string>
+    <string name="gender_female">Female</string>
+    <string name="gender_others">Others</string>
+    <string name="select_your_gender">Select Your Gender</string>
+    <string name="first_name">First Name</string>
+    <string name="last_name">Last Name</string>
+    <string name="your_gender">Your Gender</string>
+    <string name="save_changes">Submit</string>
+    <string name="new_workout_session">New Workout Session</string>
+    <string name="date">Date</string>
+    <string name="location">Location</string>
+    <string name="number_of_reps">Number of reps</string>
+    <string name="exercise_name">Exercise Name</string>
+    <string name="date_picker">datePicker</string>
+    <string name="logout">Logout</string>
+    <string name="past_workout_sessions">Past Workout Sessions</string>
+    <string name="gym_trainers">Gym Instructors</string>
+    <string name="name">Name</string>
+    <string name="gender">Gender</string>
+    <string name="phone">Phone</string>
+    <string name="gym_name">Gym Name</string>
+    <string name="welcome">Welcome</string>
+    <string name="current_weight">Current Weight</string>
+    <string name="target_weight">Target Weight</string>
+    <string name="find_gym">Find Gym</string>
+    <string name="preffered_location">preffered Location</string>
+    <string name="age">Age</string>
+
+    <string name="john_doe">John Doe</string>
+    <string name="male">Male</string>
+    <string name="_07xxxxxxx">07xxxxxxx</string>
+    <string name="andrews_gym">Andrews Gym</string>
+    <string name="johndoe_gmail_com">johndoe@gmail.com</string>
+    <string name="Change_language">Change Language</string>
+</resources>

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--
+    <string name = "app_name"> App Gym </string>
+    <string name = "btn_login"> Connexion </string>
+    <string name = "btn_signup"> Inscrivez-vous </string>
+    <string name = "email"> Adresse e-mail </string>
+    <string name = "password"> Mot de passe </string>
+    <string name = "signup_message">" Vous n\\'avez pas de compte? <b>Inscrivez-vous.</b>"</string>
+    <string name = "time_space"> Espace de temps </string>
+    <string name = "re_type_password"> Retaper le mot de passe </string>
+    <string name = "login_message">" Vous avez déjà un compte. <b> Connexion </b> "</string>
+    <string name = "title_activity_homepage"> page d\'accueil </string>
+    <string name = "title_activity_home_page"> page d\'accueil </string>
+    <string name = "welcome_message"> Utilisateur de bienvenue </string>
+    <string name = "user_profile"> Profil </string>
+    <string name = "new_session"> Enregistrer la nouvelle \n session </string>
+    <string name = "past_sessions"> Entraînement passé \n Sessions </string>
+    <string name = "instructors"> Instructeurs </string>
+    <string name = "change_language"> Langue </string>
+    <string name = "full_name"> Nom complet </string>
+    <string name = "mail"> Email </string>
+
+    <string name = "hello_blank_fragment"> Bonjour le fragment vide </string>
+        <string name = "gender_male"> Homme </string>
+        <string name = "gender_female"> Femme </string>
+        <string name = "gender_others"> Autres </string>
+        <string name = "select_your_gender"> Sélectionnez votre sexe </string>
+        <string name = "first_name"> Prénom </string>
+        <string name = "last_name"> Nom de famille </string>
+        <string name = "your_gender"> Votre genre </string>
+        <string name = "save_changes"> Soumettre </string>
+        <string name = "new_workout_session"> Nouvelle session d\'entraînement </string>
+        <string name = "date"> Date </string>
+        <string name = "location"> Emplacement </string>
+        <string name = "number_of_reps"> Nombre de répétitions </string>
+        <string name = "exercise_name"> Nom de l\'exercice </string>
+        <string name = "date_picker"> datePicker </string>
+        <string name = "logout"> Déconnexion </string>
+        <string name = "past_workout_sessions"> Sessions d\'entraînement passées </string>
+        <string name = "gym_trainers"> Instructeurs de gym </string>
+        <string name = "name"> Nom </string>
+        <string name = "gender"> Sexe </string>
+        <string name = "phone"> Téléphone </string>
+        <string name = "gym_name"> Nom du Gym </string>
+        <string name = "welcome"> Bienvenue </string>
+        <string name = "current_weight"> Poids actuel </string>
+        <string name = "target_weight"> Poids cible </string>
+        <string name = "find_gym"> Trouver Gym </string>
+        <string name = "preffered_location"> emplacement prédéfini </string>
+        <string name = "age"> Age </string>
+
+        <string name="john_doe">John Doe</string>
+        <string name="male">Male</string>
+        <string name="_07xxxxxxx">07xxxxxxx</string>
+        <string name="andrews_gym">Andrews Gym</string>
+        <string name="johndoe_gmail_com">johndoe@gmail.com</string>
+        <string name="Change_language">Change Language</string>-->
+</resources>
