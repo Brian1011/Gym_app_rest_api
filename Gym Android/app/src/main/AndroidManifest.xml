@@ -28,7 +28,7 @@
         <!-- Maps Andriod Key -->
         <meta-data
             android:name="com.google.android.geo.API_KEY"
-            android:value="AIzaSyDTipOQc4fAi90uV8SurZ8rtkzmGLxxSZg" />
+            android:value="api key goes here" />
         <!-- Maps -->
 
         <activity android:name=".past_workout" />
