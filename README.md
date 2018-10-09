@@ -1,2 +1,2 @@
 # android-gym-app
-A simple gymnastics android application that interacts with the database via a REST api created using Laravel.
+A REST API application (created using Laravel) that interacts with the database and returns responses to the android gym application.
